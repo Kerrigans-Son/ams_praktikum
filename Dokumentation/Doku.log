@@ -1,0 +1,534 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.1)  22 JAN 2018 20:07
+entering extended mode
+**./Doku.tex
+(Doku.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count94
+)
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count95
+\@cmidlb=\count96
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count97
+\@lastruleclass=\count98
+\@thisrulewidth=\dimen140
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip44
+\multirow@cntb=\count99
+\multirow@dima=\skip45
+\bigstrutjot=\dimen141
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen142
+\extrarowheight=\dimen143
+\NC@list=\toks17
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen144
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks19
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks20
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks21
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count112
+\sf@farskip=\skip51
+\sf@captopadj=\dimen160
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count113
+\c@subfigure@save=\count114
+\c@lofdepth=\count115
+\c@subtable=\count116
+\c@subtable@save=\count117
+\c@lotdepth=\count118
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.tex" Bootstrap'ing:
+catcodes, docmode, ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrecat.tex"
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyidioms.tex")
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen161
+\Y@c=\dimen162
+\U@c=\dimen163
+\D@c=\dimen164
+\L@c=\dimen165
+\R@c=\dimen166
+\Edge@c=\toks23
+\X@p=\dimen167
+\Y@p=\dimen168
+\U@p=\dimen169
+\D@p=\dimen170
+\L@p=\dimen171
+\R@p=\dimen172
+\Edge@p=\toks24
+\X@origin=\dimen173
+\Y@origin=\dimen174
+\X@xbase=\dimen175
+\Y@xbase=\dimen176
+\X@ybase=\dimen177
+\Y@ybase=\dimen178
+\X@min=\dimen179
+\Y@min=\dimen180
+\X@max=\dimen181
+\Y@max=\dimen182
+\lastobjectbox@=\box30
+\zerodotbox@=\box31
+\almostz@=\dimen183
+ direction,
+\d@X=\dimen184
+\d@Y=\dimen185
+\K@=\count119
+\KK@=\count120
+\Direction=\count121
+\K@dXdY=\dimen186
+\K@dYdX=\dimen187
+\xyread@=\read1
+\xywrite@=\write4
+\csp@=\count122
+\quotPTK@=\dimen188
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks25
+\connectobjectbox@@=\box32
+ objects,
+\styletoks@=\toks26
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyall.tex"
+ Xy-pic option: All features v.3.8
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycurve.tex"
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count123
+\crvpts@=\toks27
+\splinebox@=\box33
+\splineval@=\dimen189
+\splinedepth@=\dimen190
+\splinetol@=\dimen191
+\splinelength@=\dimen192
+ circles,
+\L@=\dimen193
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyframe.tex"
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycmtip.tex"
+ Xy-pic option: Computer Modern tip extension v.3.7
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xytips.tex"
+ Xy-pic option: More Tips extension v.3.11 loaded) loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyline.tex"
+ Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen194
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrotate.tex"
+ Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycolor.tex"
+ Xy-pic option: Colour extension v.3.11 loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex"
+ Xy-pic option: Matrix feature v.3.14
+\Row=\count124
+\Col=\count125
+\queue@=\toks28
+\queue@@=\toks29
+\qcount@=\count126
+\qcount@@=\count127
+\matrixsize@=\count128
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex"
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xygraph.tex"
+ Xy-pic option: Graph feature v.3.11 loaded) loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xygraph.tex"
+ Xy-pic option: Graph feature v.3.11 not reloaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf.tex"
+ Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-co.tex" loaded)
+Xy-pic pdf driver: `curve' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.tex" loaded)
+Xy-pic pdf driver: `frame' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.tex" loaded)
+Xy-pic pdf driver: `line' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-li.tex" loaded)
+Xy-pic pdf driver: `rotate' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-ro.tex" loaded) loaded))
+(Doku.aux)
+\openout1 = `Doku.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+-- Lines per column: 58 (exact).
+(C:\Users\Ibrahim\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen195
+\scratchbox=\box34
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen196
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks31
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Package xypdf Info: Line width: 0.39998pt on input line 14.
+Missing character: There is no Ã in font ptmrc7t!
+Missing character: There is no ¼ in font ptmrc7t!
+<test.png, id=1, 301.125pt x 301.125pt>
+File: test.png Graphic file (type png)
+<use test.png>
+Package pdftex.def Info: test.png  used on input line 28. on input line 28.
+Package pdftex.def Info: Requested size: 180.67499pt x 180.68097pt on input lin
+e 28.
+ [1{C:/Users/Ibrahim/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+] [2 <./test.png>] [3
+
+]
+(Doku.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7017 strings out of 493312
+ 99709 string characters out of 3138894
+ 309652 words of memory out of 3000000
+ 10427 multiletter control sequences out of 15000+200000
+ 40921 words of font info for 93 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,38p,3259b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Doku.pdf (3 pages, 77446 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
